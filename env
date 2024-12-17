@@ -1,0 +1,3 @@
+DB_FILE_NAME=file:local.db
+PORT=3000
+JWT_SECRET="63LLAk9q8XqQgevabhynzcIlCGX7A4ZP1FHndcCBpMg="
